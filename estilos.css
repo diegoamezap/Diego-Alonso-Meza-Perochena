@@ -1,0 +1,68 @@
+/*https://colorhunt.co/palette/21344854779294b4c1ecefca */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Serif", serif;
+    background-color: rgb(233, 243, 255);
+}
+
+header{
+    text-align: center;
+    color: #ECEFCA; 
+    background-color: #1E2952; 
+    padding: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(116, 136, 180);
+    padding: 5px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2{
+    color: #1E2952;
+    font-size: 28px;
+}
+
+hr{
+    margin: 35px 20%;
+    color: #547792;
+}
+
+/*Pa q ten alineaos los elements de la lits a los subtítulos */
+ul{
+    padding-left: 20px;
+}
+
+/*Separación entre secciones nomá */
+section{
+    margin: 30px;
+}
+
+a {
+  color: #213448; /* Azul sobrio */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #547792;
+}
+
+/*ets pa darle orden y formato a td el texto  */
+.orden{
+    margin: 3% 20%;
+    padding: 1% 2%;
+    background: rgb(217, 245, 250);
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.texto{
+    font-size: 18px;
+    color: black;
+}
