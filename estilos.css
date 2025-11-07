@@ -36,7 +36,7 @@ hr{
 
 /*Pa q ten alineaos los elements de la lits a los subtítulos */
 ul{
-    padding-left: 2.6%;
+    padding-left: 2.5%;
 }
 
 /*Separación entre secciones nomá */
@@ -66,5 +66,4 @@ a:hover {
 .texto{
     font-size: 18px;
     color: black;
-
 }
